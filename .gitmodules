@@ -1,0 +1,3 @@
+[submodule "Assets/PitGL_Submodule"]
+	path = Assets/PitGL_Submodule
+	url = https://github.com/pedro876/PitGL_Submodule.git
