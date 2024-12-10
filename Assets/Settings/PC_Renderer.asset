@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32b0bed002795d4e9fb929d959a8d48, type: 3}
   m_Name: AORendererFeature
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   material: {fileID: 2100000, guid: cddddc609973b1f4da65cab5e4e893af, type: 2}
   enabled: 1
   isRendererDeferred: 0
